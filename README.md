@@ -1,8 +1,14 @@
 ### Hi there 👋
 
+### My name is Sérgio Silva from Brazil (🇧🇷).
+
 <!--
 **S3R6I0/S3R6I0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+Would you like to find me?
+
+Blog Badge Youtube Badge Twitter Badge Linkedin Badge
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
